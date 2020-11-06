@@ -1,0 +1,74 @@
+.Cuerpo{
+    margin: 0px;
+    padding: 0px;
+}
+.Principal{
+    margin-top: -52%;
+    margin-left: 10%;   
+}
+.Nombre{
+    margin-top: -2%;
+    margin-left: 2.5%;
+    color: white;
+    font: 30px bolder;
+    font-family: Arial, sans-serif ;
+}
+.Inicio{
+    color: #f0609f;
+    font: 80px solid sans-serif;  
+}
+.Inicio p{
+    color: white;
+    font: 40px bolder;
+    font-family: Arial, sans-serif ;
+    
+}
+.Contenido{
+    margin-top: 15%;
+}
+h1{
+    color: white;
+    font: 80px solid;
+    font-family: Arial, sans-serif;
+}
+h2{
+    color: #f0609f;
+    font: 55px solid;
+    font-family: Arial, sans-serif ;
+    margin-top: -60px;
+}
+p{
+    color: white;
+    font: 35px lighter sans-serif;
+    font-family: Arial, sans-serif ;
+    margin: 5px;
+}
+.Boton{
+    margin-top: 50px;
+    margin-right: 10px;
+    padding: 20px 55px;
+    color: white;
+    background: none;
+    border-radius: 50px;
+    border-color: #f0609f;
+    font: 15px solid;
+    font-family: Arial, sans-serif;
+}
+.Boton:hover{
+    background-color: #f0609f;
+    
+}
+.Webs{
+    margin-top: 5%;
+    margin-left: -3%; 
+    display: block;
+}
+.img__2{
+    margin-top: 1%;
+}
+.Pie{
+    color: rgba(245, 245, 245, 0.685);
+    margin-top: 0%;
+    margin-right: 2%;
+    text-align: end;
+}
