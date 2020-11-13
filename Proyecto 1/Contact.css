@@ -1,0 +1,71 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+    color: white;
+}
+header{
+    font: 35px bolder;
+    font-family: Arial;
+}
+.superior{
+    margin-top: -52%;
+    margin-left: 2%;
+}
+.nombre__2{
+    margin-top: -2.2%;
+    margin-left: 4%;
+}
+.nombre__3{
+    margin-top: -1%;
+    margin-left: 4%;
+    font: 20px bolder;
+    font-family: Arial;
+}
+.principal{
+    color: white;
+}
+.register{
+    font: 25px bolder;
+    margin: 10px 2%;
+    font-family: Arial;
+}
+.box{
+    margin-left: 2%;
+    width: 500px;
+    outline: none;
+    
+    font: 20px bolder;
+    font-family: Arial;
+    background-color: rgba(245, 245, 245, 0.123);
+    border-color: rgba(245, 245, 245, 0.123);
+}
+.box__text--4{
+    height: 250px;
+    resize: none;
+}
+
+.send{
+    margin-top: -15px;
+    margin-left: 2%;
+    width: 50px;
+    background-color: rgba(245, 245, 245, 0.123);
+    border-color: rgba(245, 245, 245, 0.123);
+    color: white;
+    outline: none;
+    
+}
+.send:hover{
+    background-color: #f0609f;
+}
+.webs{
+    margin-top: 1%;
+    margin-left: 2%; 
+    display: block;
+}
+.webs__icon--facebook{
+    margin-top: 1%;
+}
+.webs__icon--instagram{
+    margin-top: 1%;
+}
